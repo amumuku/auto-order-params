@@ -1,6 +1,7 @@
 [{
   "symbol": "y4d4s_vusd",
   "market_unid": "zr0cws",
+  "batch_id":10,
   "todo": {
     "sell": [
       [0.005, 136],
